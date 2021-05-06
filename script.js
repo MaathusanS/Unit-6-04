@@ -1,7 +1,7 @@
 let A = 0 // Defines A as variable.
 let B = 0 // Defines B as variable.
 let H = 0 // Defines H as variable.
-let area1 = 0 //Defines area1 as variable.
+let area1 = 0 // Defines area1 as variable.
 
 document.body.style.backgroundColor = '#ffddd2' // Sets the document body colour.
 document.getElementById('calc').addEventListener('click', area) // Creates an event listener for calculate button, which then triggers the area function.
